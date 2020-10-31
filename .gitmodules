@@ -1,0 +1,9 @@
+[submodule "reefsaver-api"]
+	path = reefsaver-api
+	url = git@github.com:subaquatic-pierre/reefsaver-api.git
+[submodule "reefsaver-infrastructure"]
+	path = reefsaver-infrastructure
+	url = git@github.com:subaquatic-pierre/reefsaver-infrastructure.git
+[submodule "reefsaver-ui"]
+	path = reefsaver-ui
+	url = git@github.com:subaquatic-pierre/reefsaver-ui.git
